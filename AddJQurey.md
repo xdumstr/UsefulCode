@@ -1,4 +1,4 @@
-1. Run this code in console
+## Run this code in console
 ```js
 (function() {
   // Load the script
@@ -13,6 +13,6 @@
 })();
 ```
 
-1. You can use jqurey functions in console
+## You can use jqurey functions in console
 
 [W3 Schools](https://www.w3schools.com/jquery/default.asp)
